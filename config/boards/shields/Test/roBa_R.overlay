@@ -62,13 +62,6 @@
 };
 
 trackball: trackball@0 {
-    //////////
-    ...
-    //////////
-    // automouse-layer = <MOUSE>;
-    // scroll-layers = <SCROLL>;
-    // snipe-layers = <3>;
-
     arrows {
         layers = <3>;
         bindings =
