@@ -40,6 +40,31 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        esc {
+            bindings = <&kp ESCAPE>;
+            key-positions = <0 1>;
+        };
+
+        haihun {
+            bindings = <&kp MINUS>;
+            key-positions = <18 19>;
+        };
+
+        underscore {
+            bindings = <&kp UNDERSCORE>;
+            key-positions = <30 31>;
+        };
+
+        lang1 {
+            bindings = <&kp LANGUAGE_1>;
+            key-positions = <16 17>;
+        };
+
+        lang2 {
+            bindings = <&kp LANGUAGE_2>;
+            key-positions = <28 29>;
+        };
     };
 
     macros {
